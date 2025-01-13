@@ -1,0 +1,10 @@
+
+
+/* nav styles */
+.bannar{
+    display: flex;
+    width: 1280px, 560px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 80px, 100px;
+}
