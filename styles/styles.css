@@ -8,3 +8,18 @@
     border-radius: 10px;
     padding: 80px, 100px;
 }
+main{
+    max-width: 1120px;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.visions-container{
+    display: flex;
+    gap: 20px;    
+}
+.vision{
+    padding: 30px;
+    box-shadow: 0px, 6px, 50px, 0px;
+}
