@@ -31,3 +31,10 @@ main section{
     border-radius: 10px;
     padding: 80px, 100px;
     margin: 20px;
+    .nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        bottom color: blue;
+        
+    }
